@@ -1,0 +1,39 @@
+5
+CPU Average Service Time
+0
+1
+
+"
+([+-])?\d+([.]\d+)?
+
+
+Disk1 Average Service Time
+0
+1
+
+"
+([+-])?\d+([.]\d+)?
+
+
+Disk1 Total Number of Visits
+0
+1
+
+"
+([+-])?\d+([.]\d+)?
+
+
+Disk2 Average Service Time
+0
+1
+
+"
+([+-])?\d+([.]\d+)?
+
+
+Disk2 Total Number of Visits
+0
+1
+
+"
+([+-])?\d+([.]\d+)?
