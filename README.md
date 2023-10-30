@@ -9,21 +9,22 @@ Analytical Assignments for the [Computer System Performance](https://www.ece.ntu
 
 ## Analytical Assignments
 
-There were 3 analytical assignments in total. Each assignment had a set of problems to be solved. 
+There were 3 analytical assignments in total. Each assignment had a set of problems to be solved. The problems involved the use of analytical models, queuing networks, simulation techniques, empirical techniques and performance analysis. The [Java Modelling Tools (JMT)](https://jmt.sourceforge.net/) tool was used, and more specifically its [JMVA](https://jmt.sourceforge.net/JMVA.html) and [JWAT](https://jmt.sourceforge.net/JWAT.html) tools. The assignments covered the following topics.
 
-The [Java Modelling Tools (JMT)](https://jmt.sourceforge.net/) tool was used, and more specifically its [JMVA](https://jmt.sourceforge.net/JMVA.html) and [JWAT](https://jmt.sourceforge.net/JWAT.html) tools. The assignments covered the following topics.
+## Analytical 01
 
-- Analytical Models
-- Queuing Networks
-- Simulation Techniques
-- Empirical Techniques
-- Performance Analysis
-- Mean Value Analysis (MVA)
-- Flow Equivalent Server (FES)
-- Load Independent Server (LIS)
-- Load Dependent Server (LDS)
+- Mean Value Analysis - MVA
+- Flow Equivalent Server - FES
+- Load Dependent Server - LDS
+
+## Analytical 02
+
 - Performance Prediction
 - Scheduling Algorithms - FIFO, LWTF, LRUF
+- Regenerative Method
+
+## Analytical 03
+
 - Workload Characterization
 - Workload Analysis
 - What-If Analysis
