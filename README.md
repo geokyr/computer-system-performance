@@ -13,6 +13,7 @@ There were 3 analytical assignments in total. Each assignment had a set of probl
 
 ## Analytical 01
 
+- Performance Metrics
 - Mean Value Analysis - MVA
 - Flow Equivalent Server - FES
 - Load Dependent Server - LDS
