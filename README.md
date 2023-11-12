@@ -1,4 +1,4 @@
-# ece-ntua-computer-system-performance
+# computer-system-performance
 
 Analytical Assignments for the [Computer System Performance](https://www.ece.ntua.gr/en/undergraduate/courses/3207) course, during the 8th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
